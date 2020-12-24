@@ -1,2 +1,2 @@
-# best-library-ever
-lol
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
